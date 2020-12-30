@@ -5,4 +5,4 @@ printf "Current date and time %s\n" "$current"
 current="$(date +'%d/%m/%Y')"
 printf "Current date in dd/mm/yyyy format %s\n" "$current"
 
-echo"hi"
+echo"hijkl"
